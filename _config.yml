@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "My Story"
+title: "My Story | Curtis Hu"
 
 # A description of your site for meta tag, search engine results.
-description: "My Story is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "My story. My short, incomplete memoir of my short journey so far."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -32,8 +32,6 @@ navigation:
     url: /contact/
   - text: FAQ
     url: /faq/
-  - text: About
-    url: /about/
 
 # The shortname for your Disqus site to enable comments.
 # disqus: justgoodthemes

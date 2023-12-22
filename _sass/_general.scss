@@ -12,6 +12,7 @@ textarea {
 
 html {
   box-sizing: border-box;
+  scroll-snap-type: y proximity;
 
   @media only screen and (max-width: 600px) {
     border-width: 5px;
