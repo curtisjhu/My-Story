@@ -22,6 +22,11 @@ I was rushed to the hospital and I got 8 stitches.
 
 Hence, I'm blessed with these head scars. When people ask me how I got the scar, I just say voldemort came to my house and cursed me.
 
+<div style="display: flex; flex-direction: row; overflow: scroll">
+	<img src="../images/scar.JPG" />
+	<img src="../images/fresh-scar.JPG" />
+</div>
+
 Funny enough, years later I got this very story wrong. My parents tell me the story of my scar was from a different reason. My brain had filled in the pieces of my memory from this with a different story!
 
 {% include full_page/close.html %}

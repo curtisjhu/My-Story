@@ -8,9 +8,9 @@ layout: default
 3. [Blackout](#blackout)
 
 <div class="pages">
-	{% include_relative stories/the-boy-who-lived/index.md %}
-	{% include_relative stories/chasing-vincent/index.md %}
-	{% include_relative stories/blackout/index.md %}
+	{% include_relative stories/the-boy-who-lived.md %}
+	{% include_relative stories/chasing-vincent.md %}
+	{% include_relative stories/blackout.md %}
 </div>
 
 
