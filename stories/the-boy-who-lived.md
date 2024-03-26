@@ -2,13 +2,11 @@
 
 # The boy who lived
 
-Even when I was barely walking, I loved to play with my sister.
-In our Californian suburban home I grew up in, I've had plenty of that.
+In our Californian suburban home I grew up in, before I could fully walk, I loved playing games with my sister.
 From jump ropes to riding ribsticks, we've had our childhood memories locked away in the cul-de-sac we called our home.
 
-One time, my sister and I were playing tag.
-Unfortunately, I also had very bad hand eye coordination as a three year old.
-She was much faster than me, and had better control of basic motor skills.
+Shortly after learning how to walk, my sister and I decided to play tag.
+She was much faster than me and had better control of basic motor skills.
 She darted away to the bathroom.
 Like a fool, I tried to chased her.
 Instead, I ran straight into a wall.
