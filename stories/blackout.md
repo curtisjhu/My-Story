@@ -11,23 +11,23 @@ No electrical lights to bother us with unwelcomed news or unfamiliar faces to fr
 
 <img src="../images/homeland.JPG" />
 
-We visted our Nai Nai on our trip back from Scandinavia.
+We visted our Nai Nai on our trip back from Sweden.
 I was about 10 or so--as clueless as children come.
 My sister and I would play with the chicken coops, watch our Nai Nai prepare a live chicken for dinner, throw dinner scraps under the table for the dog to eat, and fetch water from the well.
-A calming peace knowing that Mama, Baba, Nai Nai, Ye Ye is all just a call away as you sit in the middle of the grassfields and listen to the crickets.
+There's a comforting calm knowing that Mama, Baba, Nai Nai, and Ye Ye is all just a call away as you sit in the middle of the grassfields and listen to the crickets.
 
 One day, Baba wanted to take the cargo tricycle bike out to journey into the village. It was a three-wheeled bike with one pedeler and a trunk in the back for me, my sister, and my mother. It all seemed like a great idea at the time. 
 
-Of course, the bike was not designed for human passengers, much less three. Baba struggled to pedal on the uneven road. I saw his back sweat even to make even 20 feet. We asked if he needed help, but through his determined ego, he said he was fine and that they'd make it through the village. Then Nai Nai called out to us, yelling something none of us could quite make out. We all turned back to make out her fuzzy message.
+Of course, the bike was not designed for human passengers, much less three. Baba struggled to pedal on the uneven road. I saw his back sweat even to make even 20 feet. We asked if he needed help, but through his determined ego, he said he was fine and that they'd make it to the village. Then Nai Nai called out to us, yelling something none of us could quite make out. We all turned back to make out her fuzzy message.
 
 At that moment, everything turned black. *Did I become blind?* Strangely, I didn't panic.
-There was a warm blanket wrapped around me, but my vision had disappeared.
+Warmness wrapped around me, but my vision had disappeared.
 Through the anaphylactic shock, I heared my mom yell, "Get up! get up!"
 
 I obeyed without question and stoodup, wiping a layer of black slime off my eye lids.
 As my vision slowly focused, I realized that the entire tricycle had fallen into a sewer ditch.
 Back in those areas, animal and human feces were tossed into ditches for runoff to take away.
-Our entire family were covered complete in black goop.
+Our entire family were completely covered in black goop.
 
 I wanted to laugh and cry at the same time. Nai Nai and our uncles had rushed over screaming.
 "Are you okay?" They pulled us out of the ditch, one by one.
