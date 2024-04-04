@@ -5,11 +5,10 @@
 In our Californian suburban home I grew up in, before I could fully walk, I loved playing games with my sister.
 From jump ropes to riding ribsticks, we've had our childhood memories locked away in the cul-de-sac we called our home.
 
-Shortly after learning how to walk, my sister and I decided to play tag.
+Shortly after learning how to walk, my sister taught me the rules of tag.
 She was much faster than me and had better control of basic motor skills.
-She darted away to the bathroom.
-Like a fool, I tried to chased her.
-Instead, I ran straight into a wall.
+As she darted away to the bathrooms, I tried to chase her.
+Instead, I collided with a stone wall.
 That's how I got my first scar on the bottom of my widow's peak.
 
 On Earth's day before my fifth birthday, the family had made plans go out.
